@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AuthorizationCodeApi
+build_property.ProjectDir = d:\MyDemo\Study\IdentityServerDemo\AuthorizationCodeApi\

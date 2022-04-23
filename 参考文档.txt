@@ -1,0 +1,4 @@
+1.https://www.cnblogs.com/i3yuan
+2.学习目的 实现前后端调试和授权中心
+3.ID4的四种模式
+4.SSO单独登陆结合Vue(History模式)的Demo  Seed数据种子 

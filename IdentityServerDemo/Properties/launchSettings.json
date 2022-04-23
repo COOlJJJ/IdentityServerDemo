@@ -1,0 +1,19 @@
+{
+  "IdentityServerDemo": {
+    "commandName": "Project",
+    "launchBrowser": true,
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    },
+    "applicationUrl": "http://localhost:5002"
+  },
+  "profiles": {
+    "IdentityServerDemo": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5002",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
